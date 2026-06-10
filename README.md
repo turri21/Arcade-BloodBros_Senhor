@@ -1,3 +1,8 @@
+-=(BloodBros_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Arcade-BloodBros_MiSTer
 
 FPGA core for **Blood Bros** (TAD Corporation, 1990) targeting the
